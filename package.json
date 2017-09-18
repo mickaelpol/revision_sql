@@ -1,0 +1,24 @@
+{
+  "name": "revision_sql",
+  "version": "1.0.0",
+  "description": "<h1>revision sql</h1> <p>creation d'un script pour creer une table PRODUIT comprenant :</p> <li>pro_id unique et auto-increment</li> <li>pro_product_name VARCHAR(100)</li> <li>pro_price float</li> <li>pro_image VARCHAR(255)</li>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickaelpol/revision_sql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickaelpol/revision_sql/issues"
+  },
+  "homepage": "https://github.com/mickaelpol/revision_sql#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
